@@ -73,8 +73,8 @@ a{
 }
 
 
-.menu{
-    margin: 12%;
+#menu{
+    margin-left: 12%;
 }
 
 .sub-menu{
@@ -93,4 +93,28 @@ a{
     padding: 5%;
     margin-left: 1%;
 }
+.sub img{
+    width: 90%;
+}
+.virtual{
+    text-align: center;
+    display: flex;
+}
+#youtube{
+    text-align: center;
+        width: 30%;
+        float: left;
+        margin-left: 200px;
+        position: relative;
+        left: 150px;
+        margin-top: 3%;
+        
+    }
+
+#kichen{
+    width: 20%;
+    display: flex;
+}
+#chiken{width: 28%;
+    margin-top: 10px;}
 
